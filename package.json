@@ -1,7 +1,8 @@
 {
   "name": "vue-gantt-schedule-timeline-calendar",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "main": "src/components/GSTC.vue",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "gantt-schedule-timeline-calendar": "^1.0.25",
     "vue": "^2.6.10"
   },
   "devDependencies": {
@@ -29,7 +31,10 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-unused-vars": 1,
+      "no-console": 1
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
@@ -37,5 +42,21 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
+  ],
+  "keywords": [
+    "vue gantt",
+    "gantt",
+    "vue schedule",
+    "vue scheduler",
+    "schedule",
+    "scheduler",
+    "vue timeline",
+    "timeline",
+    "vue calendar",
+    "calendar",
+    "vue project manager",
+    "project manager",
+    "vue tasks",
+    "tasks"
   ]
 }
