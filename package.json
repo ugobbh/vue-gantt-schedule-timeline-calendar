@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "gantt-schedule-timeline-calendar": "^1.0.28",
+    "gantt-schedule-timeline-calendar": "^1.0.29",
     "vue": "^2.6.10"
   },
   "devDependencies": {
