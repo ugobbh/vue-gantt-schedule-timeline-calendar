@@ -158,3 +158,9 @@ export default {
 };
 </script>
 ```
+
+## LICENSE
+
+**[GPL-3.0](https://github.com/neuronetio/gantt-schedule-timeline-calendar/blob/master/LICENSE)** if you are using it - your project **must** be GPL-3.0 compatible.
+
+For commercial license please contact me at neuronet.io@gmail.com
