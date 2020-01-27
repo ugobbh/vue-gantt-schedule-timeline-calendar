@@ -44,6 +44,7 @@
     "> 1%",
     "last 2 versions"
   ],
+  "description": "Vue version of gantt-schedule-timeline-calendar [ vue gantt, vue schedule, vue timeline, vue calendar, vue schedule timeline, vue gantt schedule ]",
   "keywords": [
     "vue gantt",
     "gantt",
